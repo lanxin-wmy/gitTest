@@ -9,6 +9,7 @@ public class Person {
 	}
 	public void getName(){
 		System.out.println("master");
+		System.out.println("edit by hotfix");
 	}
 
 }
