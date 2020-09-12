@@ -11,5 +11,8 @@ public class Person {
 		System.out.println("master");
 		System.out.println("edit by hotfix");
 	}
+	public void getAge(){
+		System.out.println("edit by hotfix-2");
+	}
 
 }
