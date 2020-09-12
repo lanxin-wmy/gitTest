@@ -6,5 +6,8 @@ public class Person {
 		System.out.println("haha");
 		System.out.println("left");
 	}
+	public void getName(){
+		System.out.println("master");
+	}
 
 }
